@@ -11,14 +11,25 @@ NoRA is a simple tool for interacting with openEHR servers and load custom data 
 
 NoRA is a perfect app to learn about the openEHR REST API. Load specific data in your openEHR server for testing, verification and quality assurance. The advantage is that NoRA doesn't require any programming. Workflows are defined by very intuitive point-and-click interactions, and can executed immediately.
 
+
+## Demo with Atomik
+
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rHO0e6pNmi8?si=UZt4sHHphcahUcxB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  [![NoRA Demo](https://img.youtube.com/vi/rHO0e6pNmi8/0.jpg)](https://www.youtube.com/watch?v=rHO0e6pNmi8)
+
 </div>
+
+## Demo dark mode
+
+![NoRA Dark](assets/NoRA_test_dark.gif)
 
 
 ## Download
 
 We have one folder for each platform, you can download the latest release for your specific platform.
+
+Click on the binary file and on the top right there will be a download button ![Download](assets/download.png).
 
 
 ## Support
